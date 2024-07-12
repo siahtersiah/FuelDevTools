@@ -10,4 +10,4 @@ impl MyContract for Contract {
     }
 }
 se
-sdss
+sds
