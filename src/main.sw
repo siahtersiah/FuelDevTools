@@ -9,5 +9,5 @@ impl MyContract for Contract {
         true
     }
 }
-ses
+se
 sdssv
