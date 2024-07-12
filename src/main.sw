@@ -9,3 +9,4 @@ impl MyContract for Contract {
         true
     }
 }
+s
